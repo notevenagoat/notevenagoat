@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @notevenagoat You can find me with the same handle on instagram
+- 👋 Hi, I’m @notevenagoat - Ivan Tinoco, a recent Web Developer Graduate.  
+- 🐱‍👤 Currently working on a table top role play game utility for CyberpunkRED. 
 - 👀 I’m interested in ...Games, Storytelling, Filmmaking, RPGS, TTRPGS, Poetry.
-- 🌱 I’m currently learning ...Junior Web Development
+- 🌱 I’m currently learning ...ReactJS, and MongoDB !
 - 💞️ I’m looking to collaborate on ...open source projects where I learn and be useful to others!
 - 📫 How to reach me ... @notevenagoat or https://www.linkedin.com/in/ivandtinoco/
 
